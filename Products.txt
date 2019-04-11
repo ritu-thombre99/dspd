@@ -1,0 +1,31 @@
+Mobile_phones ASUS-Zenfone-Max5 10 10000 40
+Mobile_phones Samsung-Galaxy-Note-5 15 20000 30
+Mobile_phones IPhone-7 5 56000 20
+Mobile_phones Microsoft-Lumia-L2 9 36000 27
+Mobile_phones SONY-Xperia-R1+ 9 11000 0
+Mobile_phones Redmi-Note6-ProBlack 5 11000 0
+Mobile_accessories BOAT-Wireless-Headphones 10 1500 30
+Mobile_accessories BOAT-Wired-Headphones 15 900 40
+Mobile_accessories iBall-USB-Cable 25 200 50
+Mobile_accessories Zebronics-Earphones 15 250 35
+Mobile_accessories AUX-Cable 5 200 15
+Laptops,Computer_accessories_and_tablets Apple-iPad 10 26000 30
+Laptops,Computer_accessories_and_tablets Lenovo-Tab4-10-tablets 15 15000 25
+Laptops,Computer_accessories_and_tablets Micromax-Canvas-Tab-P702-Tablet 10 9000 25
+Laptops,Computer_accessories_and_tablets iBall-Wireless-mouse 10 1000 15
+Laptops,Computer_accessories_and_tablets Intel-1TB-external-Hard-disk 15 1900 15
+Electronic_gadgets Inventis-5V-1.2W-Portable-Flexible-USB-LED-Light-Lamp 15 250 10
+Electronic_gadgets All-new-Echo-Dot-SmartSpeaker-with-Alexa 25 4000 10
+Electronic_gadgets Photron-P10-Wireless-3W-Portable-Bluetooth-Speaker(DeepCobalt) 20 600 15
+Electronic_gadgets MSE-Gadgets-Appliances-10000mAh-Solar-Power-Bank 5 1900 15
+Games_and_gaming_consoles SONY-Playstation4-PS4 5 28000 0
+Games_and_gaming_consoles MSI-Gaming-GS65-8RE-084IN-2018-15.6-inch-Laptop 10 28000 10
+Games_and_gaming_consoles Microsoft-Xbox-One-S1 10 25000 5
+Games_and_gaming_consoles Microsoft-Xbox-One-S-1TB-Console-Battlefield-V-Bundle 8 35000 0
+Home_and_kitchen_appliances Wonderchef-Turbo-Dual-Speed-Food-Processor 15 2000 7
+Home_and_kitchen_appliances Prestige-PGMFB-800-Watt-Grill-Sandwich-Toaster 5 1500 2
+Home_and_kitchen_appliances Whirpool-Washing-machine 8 10000 10
+Home_and_kitchen_appliances Kent-Water-purifier 10 7000 8
+
+
+
